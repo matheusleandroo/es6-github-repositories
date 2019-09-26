@@ -28,7 +28,7 @@ Then, inform the username and click in "Search":
 
 <h3>License</h3>
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/matheusleandroo/rocketseat-starter-es6/blob/master/LICENSE">LICENSE.md</a> file for details
 
 
 Enjoy ;)
