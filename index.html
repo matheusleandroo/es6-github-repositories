@@ -1,27 +1,31 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-
-<head>
-    <!-- Meta tags Obrigatórias -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <title>Rocketseat JS</title>
-</head>
-
-<body>
-
-    <div id="git">
-        <input id="inputGit" type="text" name="user">
-        <button onclick="listRepositories()">Buscar</button>
-    </div>
-
-    <div id="resultados">
-        <ul></ul>
-    </div>
-
-    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-    <script src="js/main.js"></script>
-</body>
-
+<html lang="en">
+   <head>
+      <!-- Required meta tags -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <!-- CSS -->
+      <link rel="stylesheet" href="./css/style.css" />
+      <title>Rocketseat JS</title>
+   </head>
+   <body>
+      <div id="header">
+         <h1>ES6</h1>
+      </div>
+      <div id="git">
+         <h3>Find repositories on github by username</h3>
+         <p>Inform the user, then click "Search":</p>
+         <input id="inputGit" type="text" name="user">
+         <button onclick="listRepositories()">Search</button>
+      </div>
+      <div id="results">
+         <ul></ul>
+      </div>
+      <div id="footer">
+         <p><strong>By</strong>: Matheus Leandro</p>
+         <p><strong>Based on</strong>: Rocketseat - Starter ES6</p>
+      </div>
+      <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+      <script src="js/main.js"></script>
+   </body>
 </html>
