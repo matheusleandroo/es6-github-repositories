@@ -1,6 +1,6 @@
-# ES6
+# ES6: GitHub Repositories
 
-A simple project based on Rocketseat Starter ES6.
+A simple project to find one or more repositories in <a href="https://github.com/">GitHub</a> by username.
 
 <h3>Getting Started</h3>
 
@@ -8,7 +8,7 @@ After clone repository, open the file "**index.html**":
 
 <img src="img/index.png">
 
-Then, inform the username and click in "Search":
+Then, inform the username and click in "**Search**":
 
 <img src="img/repositories.png">
 
@@ -31,4 +31,4 @@ Then, inform the username and click in "Search":
 This project is licensed under the MIT License - see the <a href="https://github.com/matheusleandroo/rocketseat-starter-es6/blob/master/LICENSE">LICENSE.md</a> file for details
 
 
-Enjoy ;)
+Based on <a href="https://rocketseat.com.br/starter">Starter Rocketseat</a> :rocket:
